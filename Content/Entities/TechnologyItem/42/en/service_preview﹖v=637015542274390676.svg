@@ -1,0 +1,6 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.5" d="M10 15C10 12.2386 12.2386 10 15 10H45C47.7614 10 50 12.2386 50 15V45C50 47.7614 47.7614 50 45 50H15C12.2386 50 10 47.7614 10 45V15Z" fill="#F2F6F6"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M8 15C8 11.134 11.134 8 15 8H45C48.866 8 52 11.134 52 15V45C52 48.866 48.866 52 45 52H15C11.134 52 8 48.866 8 45V15ZM15 12C13.3431 12 12 13.3431 12 15V45C12 46.6569 13.3431 48 15 48H45C46.6569 48 48 46.6569 48 45V15C48 13.3431 46.6569 12 45 12H15Z" fill="#BECFCF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32 25V19H28V25L22 25V29H28V35H32V29H38V25L32 25Z" fill="#FC605C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36 42L24 42L24 38L36 38L36 42Z" fill="#D8E3E3"/>
+</svg>
